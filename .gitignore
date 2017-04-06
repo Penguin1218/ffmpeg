@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+[dD]ebug/
+[oO]utput/
+intermediate/
+VC.*
+ipch/
